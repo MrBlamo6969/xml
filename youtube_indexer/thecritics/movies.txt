@@ -119,17 +119,6 @@ icon="https://raw.githubusercontent.com/jewbmx/xml/master/youtube_indexer/thecri
 fanart="http://"
 description="The official What The Flick?! YouTube Channel"
 
-name="[COLOR orange]Trailer Channels[/COLOR]"
-section="true"
-search="false"
-subid="false"
-playlistid="false"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/jewbmx/xml/master/youtube_indexer/thecritics/icons/icon.png"
-fanart="http://"
-description="Movie Trailer Channels on YouTube"
-
 name="Disney Movie Trailers"
 section="false"
 search="false"
