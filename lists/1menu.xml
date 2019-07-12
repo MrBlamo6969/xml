@@ -18,6 +18,18 @@
         <thumbnail>https://4.bp.blogspot.com/-Eg90Vh8Redo/W1jD5cl7sVI/AAAAAAAADjQ/b0uHeL1gjkkwKvqjhS-X0LpLqzVgPqaaACLcBGAs/s1600/LodgeTV_Playlist.png</thumbnail>
     </dir>
 
+    <dir>
+        <title>PlutoTV(Test)</title>
+        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/plutotv.m3u</link>
+        <thumbnail>https://theme.zdassets.com/theme_assets/496583/0546ed4c7cfbac8588fa2fc415af4ea6cfe1ccc6.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>U.S. Channels(Test)</title>
+        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/uschannels.m3u</link>
+        <thumbnail>https://github.com/jewbmx/repo/blob/master/img/anon.png?raw=true</thumbnail>
+    </dir>
+
     <plugin>
         <title>TVTap(External Plugin)</title>
         <link>plugin://script.module.tt</link>
@@ -29,18 +41,6 @@
         <link>plugin://script.module.livenettv.net</link>
         <thumbnail>https://www.livenettv.to/img/Logo.png</thumbnail>
     </plugin>
-
-    <dir>
-        <title>Test - PlutoTV</title>
-        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/plutotv.m3u</link>
-        <thumbnail>https://github.com/jewbmx/repo/blob/master/img/anon.png?raw=true</thumbnail>
-    </dir>
-
-    <dir>
-        <title>Test - U.S. Channels</title>
-        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/uschannels.m3u</link>
-        <thumbnail>https://github.com/jewbmx/repo/blob/master/img/anon.png?raw=true</thumbnail>
-    </dir>
 
 </xml>
 
