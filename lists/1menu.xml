@@ -42,5 +42,11 @@
         <thumbnail>https://www.livenettv.to/img/Logo.png</thumbnail>
     </plugin>
 
+    <plugin>
+        <title>SwiftStreamz(External Plugin)</title>
+        <link>plugin://script.module.swiftstreamz</link>
+        <thumbnail>https://</thumbnail>
+    </plugin>
+
 </xml>
 
