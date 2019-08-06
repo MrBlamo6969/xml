@@ -93,15 +93,6 @@
     </item>
 
     <item>
-        <title>Black & White Cinema</title>
-        <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
-            <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d4e39858-3408-4e56-aaa4-b88b44412557&deviceId=fe5e8fab-2fda-4c6e-b1a5-43fc8823fca1&deviceVersion=69.0.3497.100&appVersion=2.1.4&deviceDNT=0&userId=&advertisingId=&deviceLat=37.6783&deviceLon=-120.9501&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
-        </link>
-        <thumbnail>https://static.pluto.tv/channels/561c5b0dada51f8004c4d855/logo.png</thumbnail>
-    </item>
-
-    <item>
         <title>Black Cinema</title>
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d4e39858-3408-4e56-aaa4-b88b44412557&deviceId=fe5e8fab-2fda-4c6e-b1a5-43fc8823fca1&deviceVersion=69.0.3497.100&appVersion=2.1.4&deviceDNT=0&userId=&advertisingId=&deviceLat=37.6783&deviceLon=-120.9501&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
@@ -171,13 +162,14 @@
     <item>
         <title>Classic Movies</title>
         <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
+            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
+            <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d4e39858-3408-4e56-aaa4-b88b44412557&deviceId=fe5e8fab-2fda-4c6e-b1a5-43fc8823fca1&deviceVersion=69.0.3497.100&appVersion=2.1.4&deviceDNT=0&userId=&advertisingId=&deviceLat=37.6783&deviceLon=-120.9501&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
         </link>
-        <thumbnail>https://static.pluto.tv/channels/569546031a619b8f07ce6e25/logo.png</thumbnail>
+        <thumbnail>https://static.pluto.tv/channels/561c5b0dada51f8004c4d855/logo.png</thumbnail>
     </item>
 
     <item>
-        <title>Classic Toons TV</title>
+        <title>Classic Toons</title>
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</sublink>
             <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d4e39858-3408-4e56-aaa4-b88b44412557&deviceId=fe5e8fab-2fda-4c6e-b1a5-43fc8823fca1&deviceVersion=69.0.3497.100&appVersion=2.1.4&deviceDNT=0&userId=&advertisingId=&deviceLat=37.6783&deviceLon=-120.9501&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
@@ -198,6 +190,7 @@
         <title>CMT Westerns</title>
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ncuqage0urlhccbp8kbecjc830</sublink>
+            <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333</sublink>
         </link>
         <thumbnail>https://static.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/logo.png</thumbnail>
     </item>
@@ -264,7 +257,7 @@
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kcuqage0urlhccbp8kbecjc830</sublink>
         </link>
-        <thumbnail>https://static.pluto.tv/channels/5ca671f215a62078d2ec0abf/logo.png</thumbnail>
+        <thumbnail>https://static.pluto.tv/channels/5ca675d6593a5d78f0e85c2e/logo.png</thumbnail>
     </item>
 
     <item>
@@ -692,23 +685,6 @@
     </item>
 
     <item>
-        <title>Man Up</title>
-        <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</sublink>
-            <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d4e39858-3408-4e56-aaa4-b88b44412557&deviceId=fe5e8fab-2fda-4c6e-b1a5-43fc8823fca1&deviceVersion=69.0.3497.100&appVersion=2.1.4&deviceDNT=0&userId=&advertisingId=&deviceLat=37.6783&deviceLon=-120.9501&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
-        </link>
-        <thumbnail>https://static.pluto.tv/channels/5812bcc8237a6ff45d16c407/logo.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Man Up: Outdoors</title>
-        <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70</sublink>
-        </link>
-        <thumbnail>https://static.pluto.tv/channels/5c393cad2de254456f7ef8c2/logo.png</thumbnail>
-    </item>
-
-    <item>
         <title>MinecrafTV</title>
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</sublink>
@@ -775,6 +751,14 @@
     </item>
 
     <item>
+        <title>MTV The Hills</title>
+        <link>
+            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ocuqage0urlhccbp8kbecjc830</sublink>
+        </link>
+        <thumbnail>https://static.pluto.tv/channels/5ca68b45d0bd6c2689c96537/logo.png</thumbnail>
+    </item>
+
+    <item>
         <title>Mystery Science Theater 3000</title>
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</sublink>
@@ -785,14 +769,6 @@
 
     <item>
         <title>NBC News</title>
-        <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web</sublink>
-        </link>
-        <thumbnail>https://static.pluto.tv/channels/5268abcd0ce20a8472000114/logo.png</thumbnail>
-    </item>
-
-    <item>
-        <title>NBC News 2</title>
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=f58b3c32-87c9-4a36-b295-27a80a668599&deviceId=fe5e8fab-2fda-4c6e-b1a5-43fc8823fca1&deviceVersion=69.0.3497.100&appVersion=2.1.4&deviceDNT=0&userId=&advertisingId=&deviceLat=37.6783&deviceLon=-120.9501&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
         </link>
@@ -942,7 +918,9 @@
     <item>
         <title>Spike</title>
         <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=lcuqage0urlhccbp8kbecjc830</sublink>
+            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</sublink>
+            <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d4e39858-3408-4e56-aaa4-b88b44412557&deviceId=fe5e8fab-2fda-4c6e-b1a5-43fc8823fca1&deviceVersion=69.0.3497.100&appVersion=2.1.4&deviceDNT=0&userId=&advertisingId=&deviceLat=37.6783&deviceLon=-120.9501&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
+            <sublink name="Stream 3 ">https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=lcuqage0urlhccbp8kbecjc830</sublink>
         </link>
         <thumbnail>https://static.pluto.tv/channels/5812bcc8237a6ff45d16c407/logo.png</thumbnail>
     </item>
@@ -951,6 +929,7 @@
         <title>Spike Outdoors</title>
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=mcuqage0urlhccbp8kbecjc830</sublink>
+            <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70</sublink>
         </link>
         <thumbnail>https://static.pluto.tv/channels/5c393cad2de254456f7ef8c2/logo.png</thumbnail>
     </item>
@@ -1020,14 +999,6 @@
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</sublink>
         </link>
         <thumbnail>https://static.pluto.tv/channels/54173136ff9fba68282f4d53/logo.png</thumbnail>
-    </item>
-
-    <item>
-        <title>The Hills</title>
-        <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ocuqage0urlhccbp8kbecjc830</sublink>
-        </link>
-        <thumbnail>https://static.pluto.tv/channels/5ca68b45d0bd6c2689c96537/logo.png</thumbnail>
     </item>
 
     <item>
@@ -1117,6 +1088,7 @@
         <title>Voyager Documentaries</title>
         <link>
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d24jbjrh2o33lln3jns6j2tmn0</sublink>
+            <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</sublink>
         </link>
         <thumbnail>https://static.pluto.tv/channels/589aa03df9ba56a84197a560/logo.png</thumbnail>
     </item>
@@ -1127,14 +1099,6 @@
             <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a6vkbe38fqjt8dhs9uov8ef1t7</sublink>
         </link>
         <thumbnail>https://static.pluto.tv/channels/5c6eeb011846c82e15e01a99/logo.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Westerns</title>
-        <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333</sublink>
-        </link>
-        <thumbnail>https://static.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/logo.png</thumbnail>
     </item>
 
     <item>
@@ -1170,14 +1134,6 @@
             <sublink name="Stream 2 ">https://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d4e39858-3408-4e56-aaa4-b88b44412557&deviceId=fe5e8fab-2fda-4c6e-b1a5-43fc8823fca1&deviceVersion=69.0.3497.100&appVersion=2.1.4&deviceDNT=0&userId=&advertisingId=&deviceLat=37.6783&deviceLon=-120.9501&app_name=&appName=&appStoreUrl=&serverSideAds=true</sublink>
         </link>
         <thumbnail>https://static.pluto.tv/channels/5616f9c0ada51f8004c4b091/logo.png</thumbnail>
-    </item>
-
-    <item>
-        <title>XiveTV</title>
-        <link>
-            <sublink name="Stream 1 ">https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</sublink>
-        </link>
-        <thumbnail>https://static.pluto.tv/channels/589aa03df9ba56a84197a560/logo.png</thumbnail>
     </item>
 
     <item>
