@@ -19,8 +19,8 @@
     </dir>
 
     <dir>
-        <title>PlutoTV(Test)</title>
-        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/plutotv.m3u</link>
+        <title>PlutoTV</title>
+        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/pluto.xml</link>
         <thumbnail>https://theme.zdassets.com/theme_assets/496583/0546ed4c7cfbac8588fa2fc415af4ea6cfe1ccc6.png</thumbnail>
     </dir>
 
