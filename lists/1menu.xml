@@ -69,5 +69,11 @@
         <thumbnail>https://www.livenettv.to/img/Logo.png</thumbnail>
     </plugin>
 
+    <plugin>
+        <title>TempTV(External Plugin)</title>
+        <link>plugin://plugin.video.temptv</link>
+        <thumbnail>https://github.com/Tempest0580/Temptv/blob/master/plugin.video.temptv/icon.png?raw=true</thumbnail>
+    </plugin>
+
 </xml>
 
