@@ -1,0 +1,328 @@
+<xml>
+
+
+    <item>
+        <title>Sky-Sports-Main-Event</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Main-Event.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>Sky-Sports-Football</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Football.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>Sky-Sports-Action</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Action.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>Sky-Sports-Arena</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Arena.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>Sky-Sports-Premier-League</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Premier-League.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>Sky-Sports-Cricket</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Cricket.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>Sky-Sports-Golf</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/http://www.sports-stream.net/Sky-Sports-Golf.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>Sky-Sports-Formula-1</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/Sky-Sports-Formula-1.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>BT-Sport-1</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-1.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>BT-Sport-2</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-2.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>BT-Sport-3</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-3.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>BT-Sport-ESPN</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-ESPN.html</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=dolce1</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch/sps.php?ch=dolce1</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=dolce2</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch/sps.php?ch=dolce2</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=dolce3</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch/sps.php?ch=dolce3</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=dolce4</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch/sps.php?ch=dolce4</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=1</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=1</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=2</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=2</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=3</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=3</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=4</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=4</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=5</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=5</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=6</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=6</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=7</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=7</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=8</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=8</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=9</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=9</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=10</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=10</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=12</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=12</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=13</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=13</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=14</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=14</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=15</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=15</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=16</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=16</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=17</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=17</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=18</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=18</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=19</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=19</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=20</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=20</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=21</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=21</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=22</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=22</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=23</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=23</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=24</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=24</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=25</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=25</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=26</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=26</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=27</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=27</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=28</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=28</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=29</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=29</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=30</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=30</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+    <item>
+        <title>ch=31</title>
+        <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch.php?id=31</link>
+        <thumbnail>http://www.sports-stream.net/logo.png</thumbnail>
+    </item>
+
+
+</xml>
+
+
