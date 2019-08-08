@@ -49,11 +49,14 @@
     </dir>
 
     <dir>
-        <title>U.S. Channels(Testing)</title>
-        <link>
-            <sublink name="uschannels.m3u">https://raw.githubusercontent.com/jewbmx/xml/master/lists/uschannels.m3u</sublink>
-            <sublink name="USA.m3u">https://raw.githubusercontent.com/jewbmx/xml/master/lists/USA.m3u</sublink>
-        </link>
+        <title>uschannels.m3u(Testing)</title>
+        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/uschannels.m3u</link>
+        <thumbnail>https://github.com/jewbmx/repo/blob/master/img/anon.png?raw=true</thumbnail>
+    </dir>
+
+    <dir>
+        <title>USA.m3u(Testing)</title>
+        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/USA.m3u</link>
         <thumbnail>https://github.com/jewbmx/repo/blob/master/img/anon.png?raw=true</thumbnail>
     </dir>
 
