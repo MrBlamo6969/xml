@@ -25,18 +25,6 @@
     </dir>
 
     <dir>
-        <title>ArconaiTV(plugin.video.SportsDevil)</title>
-        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/arconaitv.xml</link>
-        <thumbnail>https://github.com/jewbmx/xml/blob/master/img/ArconaiTVlogo.png?raw=true</thumbnail>
-    </dir>
-
-    <dir>
-        <title>SportsStreamNet(plugin.video.SportsDevil)</title>
-        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/SportsStreamNet.xml</link>
-        <thumbnail>http://www.sports-stream.net/logo3.png</thumbnail>
-    </dir>
-
-    <dir>
         <title>YouTubeSports(plugin.video.youtube)</title>
         <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/YouTubeSports.xml</link>
         <thumbnail>http://tubularinsights.com/wp-content/uploads/2011/02/youtube-sports.jpg</thumbnail>
