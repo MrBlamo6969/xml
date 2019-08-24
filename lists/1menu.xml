@@ -25,6 +25,12 @@
     </dir>
 
     <dir>
+        <title>SportsStreamNet(plugin.video.SportsDevil)</title>
+        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/SportsStreamNet.xml</link>
+        <thumbnail>http://www.sports-stream.net/logo3.png</thumbnail>
+    </dir>
+
+    <dir>
         <title>YouTubeSports(plugin.video.youtube)</title>
         <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/YouTubeSports.xml</link>
         <thumbnail>http://tubularinsights.com/wp-content/uploads/2011/02/youtube-sports.jpg</thumbnail>
@@ -65,6 +71,12 @@
         <link>plugin://plugin.video.temptv</link>
         <thumbnail>https://github.com/Tempest0580/Temptv/blob/master/plugin.video.temptv/icon.png?raw=true</thumbnail>
     </plugin>
+
+    <item>
+        <title>Steel (1997) (Magnet)</title>
+        <link>magnet:?xt=urn:btih:925099421CAF737C63F33304111B7EEAEA55853E&dn=Steel.1997.DVDRip.XviD&tr=udp://tracker.leechers-paradise.org:6969&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://eddie4.nl:6969&tr=udp://tracker.pirateparty.gr:6969&tr=udp://opentrackr.org:1337&tr=udp://tracker.zer0day.to:1337</link>
+    </item>
+
 
 </xml>
 
