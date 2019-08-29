@@ -1,0 +1,173 @@
+<xml>
+
+    <plugin>
+        <title>Search Term = full+movie</title>
+        <link>plugin://plugin.video.youtube/search/?q=full+movie</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Classic Horror/Sci-Fi Movies</title>
+        <link>plugin://plugin.video.youtube/channel/UC39uYN_M5lHBxJw01Hq_pSw/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Cartoon Movie</title>
+        <link>plugin://plugin.video.youtube/channel/UCz3IBQqj2N9CQsFD4Q3wGyQ/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>ABC Kid TV</title>
+        <link>plugin://plugin.video.youtube/channel/UCbCmjCuTUZos6Inko4u57UQ/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Bananas In Pyjamas</title>
+        <link>plugin://plugin.video.youtube/channel/UCug61OHMkz5GgJkeyhxdepQ/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Barney</title>
+        <link>plugin://plugin.video.youtube/channel/UCTn45orVsFOsNZHxAJcZK5g/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Care Bears</title>
+        <link>plugin://plugin.video.youtube/channel/UChRHU6dbz5cpM2qVBK0Omng/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Cartoon Network</title>
+        <link>plugin://plugin.video.youtube/channel/UCGydrkfIhUDNCotYQI8TJhA/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>ChuChu TV</title>
+        <link>plugin://plugin.video.youtube/channel/UCBnZ16ahKA2DZ_T5W0FPUXg/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Curious George</title>
+        <link>plugin://plugin.video.youtube/channel/UCGAIzfT0d0nj3KVsdMzIqrA/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Cyber Chase</title>
+        <link>plugin://plugin.video.youtube/channel/UCzsrOcypBagRDCYF7gTm8-A/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Disney Junior</title>
+        <link>plugin://plugin.video.youtube/channel/UC7Gf2tZ8coTX2ckTPgn62iQ/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Harry and His Bucket Full of Dinosaurs</title>
+        <link>plugin://plugin.video.youtube/channel/UCoHJXadQIxxMT69kHWt0zOQ/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Kids Learning Videos</title>
+        <link>plugin://plugin.video.youtube/channel/UCwynFfAvCF2kiRSMWiozQHg/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Kids Tv Channel</title>
+        <link>plugin://plugin.video.youtube/channel/UCU_If3OQp9FPHoP1BteFNlA/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Little Bear</title>
+        <link>plugin://plugin.video.youtube/channel/UCncFzSeWqySvOXEbQoEJsZg/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Max & Ruby</title>
+        <link>plugin://plugin.video.youtube/channel/UCjF2lVpoUweXPGf0oRJcP0A/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Mr Bean Cartoon World</title>
+        <link>plugin://plugin.video.youtube/channel/UCzoFjzSkbrDD1GHsz2YNLig/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>National Geographic Kids</title>
+        <link>plugin://plugin.video.youtube/channel/UCXVCgDuD_QCkI7gTKU7-tpg/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>PBS Kids</title>
+        <link>plugin://plugin.video.youtube/channel/UCrNnk0wFBnCS1awGjq_ijGQ/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Sesame Street</title>
+        <link>plugin://plugin.video.youtube/channel/UCoookXUzPciGrEZEXmh4Jjg/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Strawberry Shortcake</title>
+        <link>plugin://plugin.video.youtube/channel/UCURCSaXYhIsnsiK-jFFZg3w/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Talking Tom</title>
+        <link>plugin://plugin.video.youtube/channel/UCDCNmuaOXOo25Yn4mbMHhhQ/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>The Muppets</title>
+        <link>plugin://plugin.video.youtube/channel/UCB0ABGbdSggBXLF0UdN4d5A/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>The Wiggles</title>
+        <link>plugin://plugin.video.youtube/channel/UC5vVe2R4ucoMzJP53o38Yaw/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Treehouse Direct</title>
+        <link>plugin://plugin.video.youtube/channel/UCcJT_hEkkQ03NAzp_6NEBiw/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Veggie Tales</title>
+        <link>plugin://plugin.video.youtube/channel/UChddokv0fxIN3BS-KZpxFfA/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+    <plugin>
+        <title>Yo Gabba Gabba!</title>
+        <link>plugin://plugin.video.youtube/channel/UCxezak0GpjlCenFGbJ2mpog/</link>
+        <thumbnail></thumbnail>
+    </plugin>
+
+</xml>
+
+

@@ -54,6 +54,12 @@
         <thumbnail>https://github.com/jewbmx/repo/blob/master/img/anon.png?raw=true</thumbnail>
     </dir>
 
+    <dir>
+        <title>YouTubePile(plugin.video.youtube)</title>
+        <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/youtubePile.xml</link>
+        <thumbnail></thumbnail>
+    </dir>
+
     <plugin>
         <title>TVTap(External Module/Plugin)</title>
         <link>plugin://script.module.tt</link>
